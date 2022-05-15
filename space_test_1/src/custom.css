@@ -1,0 +1,16 @@
+.no-list-dots {
+  list-style: none;
+}
+
+.vertical-margins {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.general-margin-large {
+  margin: 30px;
+}
+
+.button-right-align {
+  float: right;
+}
